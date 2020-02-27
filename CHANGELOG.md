@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/nodejs-redis?activeTab=versions
 
+## [1.7.0](https://www.github.com/googleapis/nodejs-redis/compare/v1.6.0...v1.7.0) (2020-02-27)
+
+
+### Features
+
+* export protos in src/index.ts ([47a7020](https://www.github.com/googleapis/nodejs-redis/commit/47a70200b1d5d9bf584c70e275c0adc2c3739802))
+
 ## [1.6.0](https://www.github.com/googleapis/nodejs-redis/compare/v1.5.1...v1.6.0) (2020-02-10)
 
 
